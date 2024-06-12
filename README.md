@@ -1,6 +1,6 @@
 This is a proof of concept for generating authentication tokens for Neobands.
 
-The repository takes a csv as input. The structur of the csv should look like this:
+The repository takes a csv as input. The structure of the csv should look like this:
 
 | Sector  | Faction | Key A  | Key B |
 | ------------- | ------------- | ------------- | ------------- |
